@@ -1,7 +1,7 @@
 Description
 =======================
 
-Control an AR Drone 2.0 using a Leap Motion / keyboard and display video & control visualization in browser.
+Control a drone using a Leap Motion / keyboard and display video & control visualization in browser.
 
 How to Fly
 =======================
@@ -24,7 +24,7 @@ jQuery for browser displays and accessing keypresses for optional keyboard contr
 Learn More
 =======================
 
-http://wp.me/p2BKrb-4k - Read my blog post about why I did this and what I hope for the future
+http://wp.me/p2BKrb-4k -
 
 YouTube Video of Drone in Flight
 =======================
@@ -34,4 +34,4 @@ http://youtu.be/hfq2SisPvCU
 Thanks
 =======================
 
-Thanks to @phillipalexander for introducing me to Faye, @felixge for AR-Drone and @bkw for Dronestream
+Thanks to @liebeskind for the leapdrone project, used as a template here
